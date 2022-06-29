@@ -84,35 +84,11 @@
     color: #9B9B9B;
 }
 
-.mailIcon {
-    position: absolute;
-    height: 12px;
-    margin-left: 218px;
-    margin-top: 43px
-}
-
-.lockIcon {
-    position: absolute;
-    height: 14px;
-    margin-left: 218px;
-    margin-top: 122px
-}
-
-.checkbox {
-    position: absolute;
-    margin-top: 168px;
-}
-
-.checkboxLabel {
-    margin-left: 20px;
-    font-size: 14px;
-}
-
-.botaoAcessar {
+.btCadastro {
     width: 250px;
     height: 43px;
     margin-left: 39px;
-    margin-top: 30px;
+    margin-top: 10px;
     background-image: linear-gradient(134.72deg, #AE23A9 0%, #DC4E1B 100%);
     border: none;
     font-family: 'Open Sans', sans-serif;
@@ -125,18 +101,6 @@ button:hover {
     cursor: pointer;
 }
 
-.botaoCadastro {
-    width: 250px;
-    height: 33px;
-    margin-left: 39px;
-    margin-top: 30px;
-    border: 1px solid #9B9B9B;
-    font-family: 'Open Sans', sans-serif;
-    background-color: #FFFFFF;
-    color: #4A4A4A;
-    font-size: 13px;
-    font-weight: 600;
-}
 
 .footer {
     margin-top: 15px;
