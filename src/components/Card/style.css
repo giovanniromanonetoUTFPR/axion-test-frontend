@@ -3,15 +3,16 @@
     height: 290px;
     background-size: 100%;
     box-shadow: 0 2px 7px 3px rgba(0, 0, 0, 0.1);
-    margin-right: 35px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .cardContainer p {
     z-index: 2;
     font-family: 'Open Sans', sans-serif;
-    font-size: 25px;;
-    font-weight: bold;
-    color: #FFFFFF;
-    padding-top: 234px;
+    font-size: 25px !important;
+    font-weight: bold !important;
+    color: #FFFFFF !important;
+    padding-top: 234px; 
     padding-left: 20px;
 }
